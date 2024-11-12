@@ -6,6 +6,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Array
 |  |
 | ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Math
 |  |
@@ -14,6 +15,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Binary Search
 |  |
 | ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
 |  |
@@ -23,4 +25,8 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2716-prime-subtraction-operation) |
+## Sorting
+|  |
+| ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 <!---LeetCode Topics End-->
