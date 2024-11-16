@@ -49,4 +49,12 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
