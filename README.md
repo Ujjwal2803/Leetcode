@@ -11,6 +11,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +58,8 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
