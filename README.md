@@ -53,10 +53,12 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
