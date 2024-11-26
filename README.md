@@ -122,4 +122,8 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0787-sliding-puzzle) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
