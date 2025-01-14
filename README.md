@@ -6,6 +6,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0189-rotate-array) |
 | [0787-sliding-puzzle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -32,6 +33,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0189-rotate-array) |
 | [2716-prime-subtraction-operation](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Binary Search
 |  |
@@ -70,6 +72,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
