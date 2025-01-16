@@ -8,6 +8,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | ------- |
 | [0001-two-sum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0283-move-zeroes) |
@@ -71,6 +72,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -82,6 +84,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
