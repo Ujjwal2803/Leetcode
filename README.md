@@ -6,6 +6,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
@@ -143,6 +144,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
