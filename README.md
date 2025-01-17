@@ -15,6 +15,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0787-sliding-puzzle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -143,6 +144,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3427-special-array-ii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3427-special-array-ii) |
 ## Monotonic Queue
@@ -155,6 +157,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0001-two-sum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
