@@ -20,6 +20,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0189-rotate-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -66,6 +67,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -97,6 +99,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0075-sort-colors](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -110,6 +113,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0075-sort-colors](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -175,6 +179,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0001-two-sum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
