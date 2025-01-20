@@ -56,6 +56,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | ------- |
 | [0189-rotate-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2716-prime-subtraction-operation](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Binary Search
 |  |
@@ -86,6 +87,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Greedy
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -191,6 +193,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
