@@ -7,6 +7,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -88,6 +89,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0011-container-with-most-water) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -114,6 +116,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0088-merge-sorted-array) |
