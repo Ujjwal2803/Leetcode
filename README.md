@@ -164,6 +164,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -208,6 +209,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0242-valid-anagram](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -224,6 +226,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0205-isomorphic-strings](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
