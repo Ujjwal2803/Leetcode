@@ -34,6 +34,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [1046-max-consecutive-ones-iii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1646-kth-missing-positive-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -167,6 +168,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0424-longest-repeating-character-replacement](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -193,6 +195,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0560-subarray-sum-equals-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3427-special-array-ii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3427-special-array-ii) |
 ## Monotonic Queue
 |  |
