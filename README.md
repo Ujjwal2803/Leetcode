@@ -25,6 +25,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -76,6 +77,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0162-find-peak-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -143,11 +145,13 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0456-132-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0456-132-pattern) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Linked List
 |  |
@@ -309,4 +313,8 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0014-longest-common-prefix) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
