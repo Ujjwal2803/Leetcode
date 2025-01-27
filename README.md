@@ -64,6 +64,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2716-prime-subtraction-operation](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -167,6 +168,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
@@ -307,6 +309,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
