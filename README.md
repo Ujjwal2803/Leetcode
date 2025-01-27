@@ -14,6 +14,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0035-search-insert-position](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -145,12 +146,14 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0456-132-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0456-132-pattern) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Linked List
