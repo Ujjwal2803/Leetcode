@@ -148,6 +148,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0456-132-pattern) |
@@ -237,6 +238,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0242-valid-anagram) |
