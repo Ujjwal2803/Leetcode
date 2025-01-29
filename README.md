@@ -26,6 +26,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0239-sliding-window-maximum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -118,6 +119,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0242-valid-anagram](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -201,6 +203,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -227,6 +230,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0205-isomorphic-strings](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -315,6 +319,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Bit Manipulation
 |  |
@@ -325,6 +330,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
@@ -341,4 +347,12 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
