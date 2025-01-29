@@ -117,6 +117,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0169-majority-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -134,6 +135,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0151-reverse-words-in-a-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -198,6 +200,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -330,4 +333,12 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0456-132-pattern) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
