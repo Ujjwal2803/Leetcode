@@ -12,6 +12,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0033-search-in-rotated-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -76,6 +77,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0033-search-in-rotated-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0162-find-peak-element) |
@@ -263,6 +265,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0787-sliding-puzzle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
