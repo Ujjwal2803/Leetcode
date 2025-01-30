@@ -22,6 +22,7 @@ public:
 
         curr->val = nextNode->val;
         curr->next = nextNode->next;
+        delete nextNode;
         
     }
 };
