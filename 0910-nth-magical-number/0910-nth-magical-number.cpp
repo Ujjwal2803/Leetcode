@@ -16,7 +16,7 @@ public:
                 high=mid-1;
             }else{
                 ans=mid;
-                high=mid-1;//may be mid 
+                high=mid-1;//may be mid is magical number
             }
             
         }
