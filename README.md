@@ -14,6 +14,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0035-search-insert-position](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -342,6 +343,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -373,4 +375,8 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
