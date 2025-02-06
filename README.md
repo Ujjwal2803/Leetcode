@@ -164,6 +164,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0020-valid-parentheses](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0456-132-pattern](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -316,6 +317,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
@@ -379,4 +381,12 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
