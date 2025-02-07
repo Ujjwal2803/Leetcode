@@ -300,6 +300,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0101-symmetric-tree) |
 | [0787-sliding-puzzle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -318,6 +319,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0101-symmetric-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
@@ -385,8 +387,10 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
