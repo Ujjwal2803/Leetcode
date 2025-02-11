@@ -25,6 +25,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0162-find-peak-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0283-move-zeroes) |
@@ -283,6 +284,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0200-number-of-islands) |
 | [0787-sliding-puzzle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1972-rotating-the-box) |
@@ -303,6 +305,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0101-symmetric-tree](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0200-number-of-islands) |
 | [0787-sliding-puzzle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -324,6 +327,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0101-symmetric-tree](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0200-number-of-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
@@ -401,4 +405,8 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0101-symmetric-tree](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
