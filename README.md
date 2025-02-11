@@ -44,6 +44,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0792-binary-search](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -290,6 +291,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0463-island-perimeter](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0787-sliding-puzzle) |
+| [1073-number-of-enclaves](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -313,6 +315,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0463-island-perimeter](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0787-sliding-puzzle) |
+| [1073-number-of-enclaves](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
@@ -336,6 +339,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0200-number-of-islands](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
@@ -418,4 +422,5 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | ------- |
 | [0200-number-of-islands](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
