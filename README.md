@@ -44,6 +44,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0787-sliding-puzzle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1036-rotting-oranges](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -293,6 +294,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0695-max-area-of-island](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0787-sliding-puzzle) |
+| [1036-rotting-oranges](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1972-rotating-the-box) |
@@ -318,6 +320,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0695-max-area-of-island](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0787-sliding-puzzle) |
+| [1036-rotting-oranges](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
