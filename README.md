@@ -145,6 +145,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -191,6 +192,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0203-remove-linked-list-elements) |
