@@ -180,6 +180,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0735-asteroid-collision](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -285,6 +286,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0812-rotate-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
