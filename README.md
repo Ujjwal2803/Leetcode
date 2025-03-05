@@ -116,6 +116,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0011-container-with-most-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -178,6 +179,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0496-next-greater-element-i](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0735-asteroid-collision) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -284,6 +286,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0344-reverse-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
