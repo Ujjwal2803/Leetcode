@@ -81,6 +81,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0231-power-of-two](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 | [0910-nth-magical-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0910-nth-magical-number) |
+| [1013-fibonacci-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2716-prime-subtraction-operation](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Binary Search
@@ -209,6 +210,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0203-remove-linked-list-elements](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -376,6 +378,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0085-maximal-rectangle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Counting
@@ -444,4 +447,8 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0200-number-of-islands](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1073-number-of-enclaves) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
