@@ -57,6 +57,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [1646-kth-missing-positive-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1833-find-the-highest-altitude](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1972-rotating-the-box](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -254,6 +255,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [1046-max-consecutive-ones-iii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [3427-special-array-ii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3427-special-array-ii) |
 ## Monotonic Queue
 |  |
