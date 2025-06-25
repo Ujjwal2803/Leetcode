@@ -77,6 +77,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [3427-special-array-ii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -257,6 +258,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [1603-running-sum-of-1d-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [3427-special-array-ii](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3427-special-array-ii) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
