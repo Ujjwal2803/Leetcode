@@ -13,6 +13,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0078-subsets) |
@@ -384,6 +385,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -405,6 +407,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Trie
