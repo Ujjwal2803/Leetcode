@@ -57,6 +57,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1677-matrix-diagonal-sum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1833-find-the-highest-altitude](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -326,6 +327,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [1036-rotting-oranges](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1677-matrix-diagonal-sum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1972-rotating-the-box](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
