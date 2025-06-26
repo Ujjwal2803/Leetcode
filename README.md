@@ -13,6 +13,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0075-sort-colors) |
@@ -156,6 +157,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0011-container-with-most-water](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0125-valid-palindrome) |
@@ -181,6 +183,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -195,6 +198,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0456-132-pattern) |
@@ -385,6 +389,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
