@@ -87,6 +87,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0189-rotate-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0910-nth-magical-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -104,6 +105,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0792-binary-search) |
