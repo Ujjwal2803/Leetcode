@@ -23,6 +23,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 | [0085-maximal-rectangle](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0162-find-peak-element) |
@@ -414,6 +415,7 @@ Welcome to my LeetCode repository! Here, you'll find a collection of coding prob
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ujjwal-Bharadwaj/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
